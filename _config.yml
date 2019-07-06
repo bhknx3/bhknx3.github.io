@@ -2,7 +2,7 @@
 title: Benjamin Kwon
 description: Benjamin Kwon GitHub Page
 # baseurl: "" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site
+url: https://bhknx3.github.io/ # the base hostname & protocol for your site
 
 # User settings
 username: Benjamin Kwon
